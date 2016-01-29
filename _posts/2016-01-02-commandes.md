@@ -11,5 +11,4 @@ fa-icon: shopping-basket
 
 - Vos clients peuvent voir le menu et commander dès qu'ils le souhaitent
 - Vous êtes informés en temps réel des commandes
-- Une interactivité inédite pour le client
 - Possibilité à tout instant d'appeler un serveur pour les informations complémentaires
