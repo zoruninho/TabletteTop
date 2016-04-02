@@ -9,6 +9,13 @@ fa-icon: child
 
 #Toujours de quoi s'occuper
 
-- Le client peut lancer des jeux en attendant ses plats
-- Il peut noter le restaurant sur les sites partenaires comme TripAdvisor
+- Le client peut noter le restaurant sur les sites partenaires comme TripAdvisor et gagner des points de fidélité
+- Jeu de speed dating convivial autour de la table
+- Possibilité de jouer entre clients non accompagnés
+- Des activités pour tous les âges
+    - Pong à plusieurs
+    - Angry Birds, Pictionnary, Taboo, ...
+    - Questions pour un champion
+
+
 
